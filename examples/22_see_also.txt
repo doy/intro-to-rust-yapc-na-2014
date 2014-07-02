@@ -1,0 +1,18 @@
+Official Sites
+==============
+Website:      http://rust-lang.org/
+IRC channel:  irc://irc.mozilla.org/#rust
+Mailing List: https://mail.mozilla.org/pipermail/rust-dev/
+Repository:   https://github.com/rust-lang/rust
+
+Learning Rust
+=============
+http://doc.rust-lang.org/
+http://play.rust-lang.org/
+http://rustbyexample.com/
+
+Contributing to Rust
+====================
+http://blog.octayn.net/
+https://github.com/rust-lang/rust/wiki/Note-development-policy
+
